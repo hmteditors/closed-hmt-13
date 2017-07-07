@@ -76,8 +76,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>τῷ δε <choice>
                                     <sic>φίλος <persName n="urn:cite2:hmt:pers:pers42"
                                             >Φόβος</persName></sic>
-                                    <corr><persName n="urn:cite2:hmt:pers:pers42"
-                                        >Φόβος</persName> φίλος</corr>
+                                    <corr><persName n="urn:cite2:hmt:pers:pers42">Φόβος</persName>
+                                        φίλος</corr>
                                 </choice> υἱὸς:</p>
                         </div>
                         <div type="ref">
@@ -94,26 +94,79 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit> ⁑</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="5" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>τῷ μὲν ἂρ ἐκ <placeName n="urn:cite2:hmt:place:place70"
+                                    >Θρῄκης</placeName></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.301</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p>ὅτι <choice>
+                                    <abbr>πο</abbr>
+                                    <expan>πόλις</expan>
+                                </choice> ἐστὶν ἐπὶ <placeName n="urn:cite2:hmt:place:place73"
+                                    >Θεσπρωτίας</placeName> ἡ <placeName
+                                    n="urn:cite2:hmt:place:place367">Ἐφύρα</placeName> ἀφ ἧς αἱ <rs
+                                    type="ethnic" n="urn:cite2:hmt:place:place367">Φύραι</rs> οἱ
+                                κατοικοῦντες λέγονται· λέγει δέ ποτε καὶ τὴν <placeName
+                                    n="urn:cite2:hmt:place:place165">Κόρινθον</placeName>
+                                <placeName n="urn:cite2:hmt:place:place165">Ἐφύραν</placeName> ἐξ
+                                ηρωϊκοῦ προσώπου· ἰστέον δὲ ὅτι <rs type="ethnic"
+                                    n="urn:cite2:hmt:place:place367">Ἐφύραι</rs> τέσσαρές εἰσὶν μία
+                                μὲν ἡ <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice>
+                                <placeName n="urn:cite2:hmt:place:place2">Θεσσαλίαν</placeName>·
+                                δευτέρα δὲ ἡ <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> τὴν ἤπειρον· τρίτη δὲ ἡ τῆς <placeName
+                                    n="urn:cite2:hmt:place:place65">Ἥλιδος</placeName> καὶ τετάρτη ἡ
+                                νῦν καλούμεναι <placeName n="urn:cite2:hmt:place:place165"
+                                    >Κόρινθος</placeName> νῦν γοῦν λέγει τοὺς καλουμένους <rs
+                                    type="ethnic" n="urn:cite2:hmt:place:place449">Κραννονίους</rs>
+                                ἐν <placeName n="urn:cite2:hmt:place:place2">Θεσσαλία</placeName> ὡς
+                                    <persName n="urn:cite2:hmt:pers:pers69">Ἀπολλόδωρος</persName>
+                                ἱστορεῖ ⁑</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="6" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἡὲ μετα Φλεγύας μεγαλήτορας⁚</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.302</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p>Φλεγυίαι <placeName n="urn:cite2:hmt:place:place361"
+                                    >Γόρτυναν</placeName> κατοικοῦντες παρανομώτατον καὶ ληστρικὸν
+                                διῆγον βιον κατατρέχοντες τοὺς περιοίκους· χαλεπῶς ἠδίκουν, <rs
+                                    type="ethnic" n="urn:cite2:hmt:place:place49">Θηβαῖοι</rs> δὲ
+                                πλησίοχωροι ὄντες ἐδεδοίκεσαν καὶ μεχρι πολλοῦ εἰ μη <persName
+                                    n="urn:cite2:hmt:pers:pers197">Ἀμφίων</persName> καὶ <persName
+                                    n="urn:cite2:hmt:pers:pers196">Ζῆθος</persName> οἱ <persName
+                                    n="urn:cite2:hmt:pers:pers8">Διὸς</persName> καὶ <persName
+                                    n="urn:cite2:hmt:pers:pers1123">Ἀντιοπης</persName> ἐτείχισεν
+                                τὰς <placeName n="urn:cite2:hmt:place:place49">Θήβας</placeName>·
+                                εἶχε γὰρ <persName n="urn:cite2:hmt:pers:pers197">Ἀμφίων</persName>
+                                λύραν παρα Μουσῶν αὐτῷ δεδομενην⁚ δι ῆς κατέθελγε καὶ τοὺς λίθους
+                                ὥστε καὶ προς τὴν τειχοδομίαν αὐτομάτους ἐπέρχεσθαι τουτῶν οὖν μὲν
+                                ζώντων οὐδὲν οἱ Φλεγῦαι τοὺς <rs type="ethnic"
+                                    n="urn:cite2:hmt:place:place49">Θηβαίους</rs> ἠδύναντο διαθεῖναι
+                                θανόντων δὲ αυτῶν ἐπελθόντες σὺν <persName
+                                    n="urn:cite2:hmt:pers:pers1124">Εὐρυμάχω</persName> τῷ βασιλεῖ
+                                τὰς <placeName n="urn:cite2:hmt:place:place49">Θηβας</placeName>
+                                εῖλον· πλείονα δὲ τολμῶντες ἀδικηματα κατα <persName
+                                    n="urn:cite2:hmt:pers:pers8">Διὸς</persName> προαίρεσιν ὑπο
+                                    <persName n="urn:cite2:hmt:pers:pers40">Ἀπολλωνος</persName>
+                                διεφθάρησαν· οὗτοι δὲ ἐνέπρησαν καὶ τὸν ἐν <placeName
+                                    n="urn:cite2:hmt:place:place173">Δελφοῖς</placeName> ναὸν τοῦ
+                                    <persName n="urn:cite2:hmt:pers:pers40">Ἀπόλλωνος</persName> ἡ
+                                ἱστορία παρα <persName n="urn:cite2:hmt:pers:pers255"
+                                    >Φερεκύδει</persName> ⁑</p>
                         </div>
                     </div>
                     <!--     <div n="" type="scholion">
