@@ -73,11 +73,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="4" type="scholion">
                         <div type="lemma">
-                            <p>τῷ δε φίλος <persName n="urn:cite2:hmt:pers:pers42">Φόβος</persName>
-                                υἱὸς:</p>
+                            <p>τῷ δε <choice>
+                                    <sic>φίλος <persName n="urn:cite2:hmt:pers:pers42"
+                                            >Φόβος</persName></sic>
+                                    <corr><persName n="urn:cite2:hmt:pers:pers42"
+                                        >Φόβος</persName> φίλος</corr>
+                                </choice> υἱὸς:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.299</p>
                         </div>
                         <div type="comment">
                             <p> ὅτι ῥητῶς <persName n="urn:cite2:hmt:pers:pers83">Ἄρεως</persName>
@@ -92,7 +96,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p></p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
