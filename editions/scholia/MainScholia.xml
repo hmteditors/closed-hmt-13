@@ -294,6 +294,62 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἐπιγνῶμεν πότερον καύχησιν ἑτέρῳ δώσομεν, ἢ ἕτερος ἡμῖν ⁑</p>
                         </div>
                     </div>
+                    <div n="13" type="scholion">
+                        <div type="lemma">
+                            <p>ταμεσίχροας,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.340</p>
+                        </div>
+                        <div type="comment">
+                            <p>τμητικὸν τοῦ χρωτὸς παρὰ
+                                τὸ <q>ταμῶ</q> ῥῆμα οὗ μέλλον <q>ταμέσω</q>. ἠ ἀνέπτυξε ποιητικῶς τὸ <q>τμησίχροας</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="14" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    <div n="" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    <div n="" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    <div n="" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
                     <!--<div n="" type="scholion">
                         <div type="lemma">
                             <p/>
