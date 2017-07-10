@@ -245,40 +245,53 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         <orig>ἅλην</orig>
                                         <reg>ἅδην</reg>
                                     </choice> ἐλόωσιν</q> ἀντι τοῦ <q>κορεσθῆναι αὐτὸν ποιήσουσι τοῦ
-                                        πολέμου καίπερ προθυμίαν εχοντα</q> ⁑</p>
+                                    πολέμου καίπερ προθυμίαν εχοντα</q> ⁑</p>
                         </div>
                     </div>
                     <div n="10" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>αἱπύ οἱ εσσεῖται:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.317</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p> ὅτι αιπὺ <choice>
+                                    <abbr>μεταφορι</abbr>
+                                    <expan>μεταφορικῶς</expan>
+                                </choice> ἀντι τοῦ <q>δυσπρόσβατον</q>
+                                <q>δυσχερές</q> καὶ ὅτι ὁ <q>περ</q> σύνδεσμος περισσός ⁑</p>
                         </div>
                     </div>
                     <div n="11" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>νῶϊν δ' ὁδ' ἐπ αριστερ’</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.326</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p>ὅτι τὸ <q>νῶϊν</q> δύο πτώσεις σημαίνει, <choice>
+                                    <abbr>γε</abbr>
+                                    <expan>γενικὴν</expan>
+                                </choice> καὶ δοτικήν <q>ἡμῶν</q> καὶ <q>ἡμῖν</q>· νῦν δὲ κεῖται
+                                ἀντι τοῦ <q>ἡμῶν επ <choice>
+                                        <sic>αριστερὰ</sic>
+                                        <corr>αριστερά</corr>
+                                    </choice></q> ⁑</p>
                         </div>
                     </div>
                     <div n="12" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>εἴδομεν ἠέ τω εὖχος,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.327</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p>ὅτι ἔξωθεν σὺν ὑπακοῦσαι δεῖ <q>ὀρέξειν</q> <q>ἥ τις ἡμῖν
+                                ὀρέξει</q>· ὅλον δὲ συναπτέον τὸν στίχον· ὁ γὰρ λόγος ἵνα ταχέως
+                                ἐπιγνῶμεν πότερον καύχησιν ἑτέρῳ δώσομεν, ἢ ἕτερος ἡμῖν ⁑</p>
                         </div>
                     </div>
                     <!--<div n="" type="scholion">
