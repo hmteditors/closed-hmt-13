@@ -289,9 +289,95 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.327</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἔξωθεν σὺν ὑπακοῦσαι δεῖ <q>ὀρέξειν</q> <q>ἥ τις ἡμῖν
-                                ὀρέξει</q>· ὅλον δὲ συναπτέον τὸν στίχον· ὁ γὰρ λόγος ἵνα ταχέως
-                                ἐπιγνῶμεν πότερον καύχησιν ἑτέρῳ δώσομεν, ἢ ἕτερος ἡμῖν ⁑</p>
+                            <p>ὅτι ἔξωθεν σὺν ὑπακοῦσαι δεῖ <q>ὀρέξειν</q>
+                                <q>ἥ τις ἡμῖν ὀρέξει</q>· ὅλον δὲ συναπτέον τὸν στίχον· ὁ γὰρ λόγος
+                                ἵνα ταχέως ἐπιγνῶμεν πότερον καύχησιν ἑτέρῳ δώσομεν, ἢ ἕτερος ἡμῖν
+                                ⁑</p>
+                        </div>
+                    </div>
+                    <div n="13" type="scholion">
+                        <div type="lemma">
+                            <p>ταμεσίχροας,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.340</p>
+                        </div>
+                        <div type="comment">
+                            <p>τμητικὸν τοῦ χρωτὸς παρὰ τὸ <q>ταμῶ</q> ῥῆμα οὗ μέλλον <q>ταμέσω</q>.
+                                ἠ ἀνέπτυξε ποιητικῶς τὸ <q>τμησίχροας</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="14" type="scholion">
+                        <div type="lemma">
+                            <p>ὃς τότε γηθήσειεν ϊδὼν πόνον</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.344</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τὴν ἀλλαγὴν τοῦ ῥήματος ἀντι τοῦ <q>ἐγήθησεν</q>. καὶ ὅτι
+                                    <q>πόνον</q> τὸ ἔργον. καὶ ὅτι <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντικειμένως</expan>
+                                </choice> ἀποδέδωκεν <q>οὐδ' ἀκάχοιτο</q> πρὸς τὸ σύνηθες ⁑</p>
+                        </div>
+                    </div>
+                    <div n="15" type="scholion">
+                        <div type="lemma">
+                            <p>ἀνδράσιν ἡρώεσσι τετεύχετον:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.346</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι ἀντὶ τοῦ <q>τετευχέτην</q>, ή <q>τεύχουσι</q> χρόνος δὲ ἤλλακται
+                                ἔστιν γὰρ ἀντι τοῦ <q>ἔτευχον</q> ὡς ἐπι τοῦ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.361</ref>
+                                    <q>ῆ κεμάδ' ἠὲ λαγωὸν ἐπείγετον</q>
+                                </cit>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice>
+                                <q>ἤπειγον</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="16" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλα <persName n="urn:cite2:hmt:pers:pers19">Θέτιν</persName>
+                                κύδαινε.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.350</p>
+                        </div>
+                        <div type="comment">
+                            <p> ἀθετεῖται ὅτι οὐκ ἀναγκαῖος· προείρηται γὰρ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.348</ref>
+                                    <q>κυδαίνων <persName n="urn:cite2:hmt:pers:pers1"
+                                            >Ἀχιλῆα</persName> πόδας ταχύν</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="17" type="scholion">
+                        <div type="lemma">
+                            <p>‡ λάθρη ὑπεξαναδὺς.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.351-13.353</p>
+                        </div>
+                        <div type="comment">
+                            <p> τὸ <q>λάθρῃ</q>, ἀμφοτέροις δύναται προσδίδοσθαι· τὸ δὲ ἑξῆς ἐστιν
+                                Ἀργείους δ' ὀρόθυνε <rs type="ethnic" n="urn:cite2:hmt:place:place6"
+                                    >Τρωσὶ</rs> δαμναμένους· τὸ δὲ <q>ἤχθετο γάρ ῥα</q> διὰ μέσου·
+                                εἰ μὲν γὰρ συνάπτομεν. <q>ἤχθετο γάρ ῥα <rs type="ethnic"
+                                    n="urn:cite2:hmt:place:place6">Τρωσὶ</rs> δαμναμένους</q>
+                                σολοικοφανὴς μὲν γίνεται ἡ φράσις ἀρχαῖον δέ μοι δοκεῖ τὸ σχῆμα
+                                εἶναι· καὶ ἀλλαχοῦ <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:6.479-6.480</ref>
+                                    <q>καί ποτέ τις εἴποι πατρὸς δ' ὅγε πολλὸν ἀμείνω ἐκ πολεμου
+                                        ἀνιόντα</q>
+                                </cit> τὴν γὰρ ἔλλειψιν τοῦ <q>ὁρῶν</q> οὐ παραδεχόμεθα ⁑</p>
                         </div>
                     </div>
                     <!--<div n="" type="scholion">

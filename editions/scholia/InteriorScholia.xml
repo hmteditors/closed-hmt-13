@@ -81,10 +81,28 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.318</p>
                         </div>
                         <div type="comment">
-                            <p>οὑ πληθυντικῶς αἱ <persName n="urn:cite2:hmt:pers:pers16">Αριστάρχου</persName> ⁑</p>
+                            <p>οὑ πληθυντικῶς αἱ <persName n="urn:cite2:hmt:pers:pers16"
+                                    >Αριστάρχου</persName> ⁑</p>
                         </div>
                     </div>
-
+                    <div n="5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.351</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                <abbr><persName n="urn:cite2:hmt:pers:pers15">Ζηνοδ</persName></abbr>
+                                <expan><persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName></expan>
+                                </choice> καὶ <choice>
+                                    <abbr><persName n="urn:cite2:hmt:pers:pers21">Αριστ</persName></abbr>
+                                    <expan><persName n="urn:cite2:hmt:pers:pers21">Ἀριστοφάνης</persName></expan>
+                                </choice>
+                                <q>ώτρυνε</q> ⁑</p>
+                        </div>
+                    </div>
 
                     <!-- <div n="" type="scholion">
                         <div type="lemma">
