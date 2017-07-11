@@ -370,7 +370,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 Ἀργείους δ' ὀρόθυνε <rs type="ethnic" n="urn:cite2:hmt:place:place6"
                                     >Τρωσὶ</rs> δαμναμένους· τὸ δὲ <q>ἤχθετο γάρ ῥα</q> διὰ μέσου·
                                 εἰ μὲν γὰρ συνάπτομεν. <q>ἤχθετο γάρ ῥα <rs type="ethnic"
-                                    n="urn:cite2:hmt:place:place6">Τρωσὶ</rs> δαμναμένους</q>
+                                        n="urn:cite2:hmt:place:place6">Τρωσὶ</rs> δαμναμένους</q>
                                 σολοικοφανὴς μὲν γίνεται ἡ φράσις ἀρχαῖον δέ μοι δοκεῖ τὸ σχῆμα
                                 εἶναι· καὶ ἀλλαχοῦ <cit>
                                     <ref type="urn"
@@ -380,7 +380,24 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit> τὴν γὰρ ἔλλειψιν τοῦ <q>ὁρῶν</q> οὐ παραδεχόμεθα ⁑</p>
                         </div>
                     </div>
-                    <!--<div n="" type="scholion">
+                    <div n="18" type="scholion">
+                        <div type="lemma">
+                            <p>‡ τοί δ' ἔριδος κρατερῆς.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.358</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ λόγος οἱ δε τὸ πέρας τοῦ πολέμου καὶ τῆς έριδος συνάψαντες
+                                ἐπέτειναν ἀμφοτέροις, οἶον ἀμφοτέρωθεν μετενήνεκται μὲν οὖν ἀπο τῶν
+                                δεσμῶν τῷ δὲ ἐπαλλάξε ἐπι τοῦ συνάψαι χρῶνται καὶ τῶν πεζολόγων
+                                τινὲς, πλεονάζει δὲ <persName n="urn:cite2:hmt:pers:pers1139"
+                                    >Ἀριστόξενος</persName> ὁ μασικὸς ἐπιλλαγμένα λέγων τὰ
+                                συνημμένα· οὕτως ὁ <persName n="urn:cite2:hmt:pers:pers110">Κοτιαεύς</persName> ⁑</p>
+                        </div>
+                    </div>
+                    <!--
+                        <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
