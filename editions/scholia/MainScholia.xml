@@ -27,8 +27,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <group n="13">
             <text n="msA">
                 <body>
-                    
-                    
+
+
                      <div n="164r1" type="scholion">
             <div type="lemma">
               <p>
@@ -553,7 +553,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </div>
           <div n="166v1" type="scholion">
             <div type="lemma">
-              <p>‡ καρτεραί:</p> 
+              <p>‡ καρτεραί:</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.126</p>
@@ -658,7 +658,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.147</p>
             </div>
             <div type="comment">
-              <p>προς τὸ <rs type="waw">ἀμφιγύιοισιν</rs> ὅτι οἱ μὲν ἐπεὶ ἀμφοτέραις ταῖς χερσὶ διερείδοντες χρῶνται· οἱ δὲ ἀπο τοῦ <rs type="waw">γυῶσαι </rs>ὅτι βλάπτει ἀμφοτέρωθεν 
+              <p>προς τὸ <rs type="waw">ἀμφιγύιοισιν</rs> ὅτι οἱ μὲν ἐπεὶ ἀμφοτέραις ταῖς χερσὶ διερείδοντες χρῶνται· οἱ δὲ ἀπο τοῦ <rs type="waw">γυῶσαι </rs>ὅτι βλάπτει ἀμφοτέρωθεν
 οἱ δὲ μεταφορικῶς ἀπο τῶν <rs type="waw">γυιῶν</rs> ὅτι ἑκατέρωθεν ἄκρον ἔχει γυῖα γὰρ τὰ ἄκρα⁑</p>
             </div>
           </div>
@@ -672,7 +672,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <div type="comment">
               <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> γρἀφει ὁ δὲ χάσσατο πολλὸν ὀπίσω, ἠγνόησε δὲ ὅτι τὰ <choice><abbr>ἐμπεπηγοτ</abbr><expan>ἐμπεπηγότα</expan></choice> δόρατα τῃ ἀσπίδι ἀναχωροῦντες διατινάσσουσιν ἵνα ἀποπέσῃ ⁑</p>
             </div>
-          </div> 
+          </div>
           <div n="166v12" type="scholion">
             <div type="lemma">
               <p> διαπρύσιον:</p>
@@ -803,7 +803,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.203</p>
             </div>
             <div type="comment">
-              <p> ὅτι ἐλλείπει ἡ περὶ περὶ <persName n="urn:cite:hmt:pers.pers465">αμφιμάχου</persName> καὶ ὅτι <persName n="urn:cite:hmt:pers.pers15">ζηνόδοτος</persName> ἄρθον ἐνόμιζε τὸ <rs type="waw">ο</rs> <persName n="urn:cite:hmt:pers.pers150">ἰλέως</persName> τὸν <persName n="urn:cite:hmt:pers.pers281">αἴαντα</persName> καὶ οὐκ <persName n="urn:cite:hmt:pers.pers150">ὀϊλεως</persName> ἀκούων δι ὃ καὶ 
+              <p> ὅτι ἐλλείπει ἡ περὶ περὶ <persName n="urn:cite:hmt:pers.pers465">αμφιμάχου</persName> καὶ ὅτι <persName n="urn:cite:hmt:pers.pers15">ζηνόδοτος</persName> ἄρθον ἐνόμιζε τὸ <rs type="waw">ο</rs> <persName n="urn:cite:hmt:pers.pers150">ἰλέως</persName> τὸν <persName n="urn:cite:hmt:pers.pers281">αἴαντα</persName> καὶ οὐκ <persName n="urn:cite:hmt:pers.pers150">ὀϊλεως</persName> ἀκούων δι ὃ καὶ
                 ἔγραφεν κόψεν ὰρ <persName n="urn:cite:hmt:pers.pers281">ἰλιάδης</persName>⁑</p>
             </div>
           </div>
@@ -1312,6 +1312,31 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     >Κοτιαεύς</persName> ⁑</p>
                         </div>
                     </div>
+                    <div n="19" type="scholion">
+                    <div type="lemma">
+                        <p>τοὶ δ' έριδος κρατερῆς·</p>
+                    </div>
+                    <div type="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                    </div>
+                    <div type="comment">
+                        <p>ὁ δε <persName n="urn:cite2:hmt:pers:pers8">Ζεὺς</persName> καὶ ὁ <persName n="urn:cite2:hmt:pers:pers47"><choice><sic>Ποσειδῶν</sic><corr>Ποσειδών</corr></choice></persName> τὰ πέρατα τῆς μαχης καὶ τοῦ πολέμου τείναντες καταμφοτέρων τῶν στρατῶν ἔδησαν ἰσχυρῷ δεσμῷ ὃς δεσμὸς πολλοῖς αἴτιος ἀποωλείας ἐγένετο· τέλος γὰρ υπτίθεταιὑποτίθεται ἀλληγορικῶς τὰς ἑκατέρωθεν ἐξοχὰς ἐπιπεπλεγμένως· μίαν μὲν <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρώων</rs> μίαν δὲ <rs type="ethnic" n="urn:cite2:hmt:place:place3">Ἑλλήνων</rs> καὶ <persName n="urn:cite2:hmt:pers:pers47">Ποσειδῶνος</persName> <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> <persName n="urn:cite2:hmt:pers:pers8">Διὸς</persName> γνώμην· καὶ τῶν ἐγκατπεγλεγμένων κτεινομένων ἀπο τῶν ἐξοχῶν καὶ μη δυναμένων μή τε ραγῆναι μή τε λυθῆναι· <choice><abbr>ταυτ</abbr><expan>ταυτὰ</expan></choice> οὖν ἀλληγορεῖ ἐις τὸ <choice><abbr>ϊσόρροπ</abbr><expan>ϊσόρροπον</expan></choice> αυτῶν τὴν ἰσχὺν συστῆναι δια τὰς τῶν θεῶν βοηθείας ⁑</p>
+
+                    </div>
+                </div>
+                    <!--
+                        <div n="" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    -->
 
                     <!-- end of HC editing, PICK UP HERE -->
 
@@ -2235,8 +2260,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         </div>
                                     </div>
 
-                          
-                          
+
+
                           <!-- end of Gustavus editing, end of book -->
 
 
