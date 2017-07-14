@@ -2,7 +2,7 @@
 Complete edition of Iliad 13
 
 
-**IMPORTANT**
+## IMPORTANT
 
 Look at project wiki to see editorial progress.
 
