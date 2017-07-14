@@ -4,7 +4,12 @@ Complete edition of Iliad 13
 
 **IMPORTANT**
 
-Fold in work from these repos when trying to compile the current work that has been done on *Iliad* 13
+Look at project wiki to see editorial progress.
+
+Comments are in the scholia documents for where to pickup
+
+
+## Older repos that were folded in
 
 - [Gustavus](https://github.com/hmteditors/gustavus)
 - [Leiden](https://github.com/hmteditors/leiden)
