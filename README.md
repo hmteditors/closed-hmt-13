@@ -4,6 +4,8 @@ Complete edition of *Iliad* 13
 
 ## IMPORTANT
 
+**fold in scholia collections from other repos** (see below)
+
 Look at project wiki to see editorial progress.
 
 Comments are in the scholia documents for where to pickup
