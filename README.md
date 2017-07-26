@@ -1,15 +1,5 @@
 # hmt-13
-Complete edition of *Iliad* 13
-
-
-## IMPORTANT
-
-**fold in scholia collections from other repos** (see below)
-
-Look at project wiki to see editorial progress.
-
-Comments are in the scholia documents for where to pickup
-
+Almost complete edition of *Iliad* 13, see project wiki for unfinished pages
 
 ## Older repos that were folded in
 
