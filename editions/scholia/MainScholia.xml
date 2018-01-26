@@ -1809,52 +1809,94 @@
                                                                                   </choice> εἰώθασι γὰρ τοὺς ὀδόντας βρύχειν</p>
                                                                                 </div>
                                                                               </div>
-                                                                              <div n="25" type="scholion">
+                                                                              <div n="36" type="scholion">
                                                                                 <div type="lemma">
-                                                                                  <p>
-                                                                                  </p>
+                                                                                  <p>τῆι ὑπο πᾶς ἑάλλη</p>
                                                                                 </div>
                                                                                 <div type="ref">
-                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.408</p>
                                                                                 </div>
                                                                                 <div type="comment">
-                                                                                  <p> ⁑</p>
+                                                                                  <p>ὅτι τὸ <rs type="waw">πᾶς</rs> ἀντι τοῦ <rs type="waw">όλος</rs>· ἡ δὲ ἀναφορὰ προς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.58</ref><q>πᾶσαι δ' ὠΐγνυντο πύλαι</q></cit> ἀντι τοῦ <rs type="waw"όλαι</rs> ⁑</p>
                                                                                 </div>
                                                                               </div>
-                                                                              <div n="25" type="scholion">
+                                                                              <div n="37" type="scholion">
                                                                                 <div type="lemma">
-                                                                                  <p>
+                                                                                  <p>εἰς ἀΐδος περ ἰόντα πυλάρταο:
                                                                                   </p>
                                                                                 </div>
                                                                                 <div type="ref">
-                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.415</p>
                                                                                 </div>
                                                                                 <div type="comment">
-                                                                                  <p> ⁑</p>
+                                                                                  <p>ὅτι τοῦ ἰσχυρῶς τὰς πύλας ἐπαρτῶντος ὅ ἐστιν ἀρμόζοντος, ἀμφότερα γὰρ πρὸς ἓν ληπτέον ⁑</p>
                                                                                 </div>
                                                                               </div>
-                                                                              <div n="25" type="scholion">
+                                                                              <div n="38" type="scholion">
                                                                                 <div type="lemma">
-                                                                                  <p>
+                                                                                  <p>ἀλλὰ θέων περίβη·
                                                                                   </p>
                                                                                 </div>
                                                                                 <div type="ref">
-                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.420</p>
                                                                                 </div>
                                                                                 <div type="comment">
-                                                                                  <p> ⁑</p>
+                                                                                  <p>προς τὴν ἐξήγησιν τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.37</ref><q>ὃς Χρύσην ἀμφιβέβηκας</q></cit> ἀντι τοῦ ὑπερμαχεῖς κατα μεταφορὰν τῶν τετραπόδων ⁑</p>
                                                                                 </div>
                                                                               </div>
-                                                                              <div n="25" type="scholion">
+                                                                              <div n="39" type="scholion">
                                                                                 <div type="lemma">
-                                                                                  <p>
-                                                                                  </p>
+                                                                                  <p>νῆας ἐπι γλαφυρὰς φερέτην</p>
                                                                                 </div>
                                                                                 <div type="ref">
-                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
+                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.423</p>
                                                                                 </div>
                                                                                 <div type="comment">
-                                                                                  <p> ⁑</p>
+                                                                                  <p>ὅτι <choice><abbr>Ζηνoδ</abbr><expan>Ζηνόδοτος</expan></choice> γράφει <q>στενάχοντα</q> ἑνικῶς:</p>
+                                                                                </div>
+                                                                              </div>
+                                                                              <div n="40" type="scholion">
+                                                                                <div type="lemma">
+                                                                                  <p></p>
+                                                                                </div>
+                                                                                <div type="ref">
+                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.423</p>
+                                                                                </div>
+                                                                                <div type="comment">
+                                                                                  <p>⁑</p>
+                                                                                </div>
+                                                                              </div>
+                                                                              <div n="40" type="scholion">
+                                                                                <div type="lemma">
+                                                                                  <p></p>
+                                                                                </div>
+                                                                                <div type="ref">
+                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.423</p>
+                                                                                </div>
+                                                                                <div type="comment">
+                                                                                  <p>⁑</p>
+                                                                                </div>
+                                                                              </div>
+                                                                              <div n="40" type="scholion">
+                                                                                <div type="lemma">
+                                                                                  <p></p>
+                                                                                </div>
+                                                                                <div type="ref">
+                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.423</p>
+                                                                                </div>
+                                                                                <div type="comment">
+                                                                                  <p>⁑</p>
+                                                                                </div>
+                                                                              </div>
+                                                                               <div n="40" type="scholion">
+                                                                                <div type="lemma">
+                                                                                  <p></p>
+                                                                                </div>
+                                                                                <div type="ref">
+                                                                                  <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.423</p>
+                                                                                </div>
+                                                                                <div type="comment">
+                                                                                  <p>⁑</p>
                                                                                 </div>
                                                                               </div>
                                                                               <!-- end of HC editing, PICK UP HERE -->
