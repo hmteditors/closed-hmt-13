@@ -63,11 +63,11 @@
         </div>
         <div type="comment">
           <p>
-            <q>ἐπειδή</q>, ὅσα δηλοῖ τὸ <rs type="waw">ἐπεί</rs> τὸ <rs type="waw">ὅτι</rs>
+            <q>ἐπειδή</q>, ὅσα δηλοῖ τὸ <q>ἐπεί</q> τὸ <q>ὅτι</q>
             <cit>
               <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.115</ref>
               <q>ἐπεὶ πολὺν ὤλεσα λαόν</q>
-              </cit>. καὶ <rs type="waw">ὅτε</rs> ὡς νῦν καὶ <rs type="waw">ἐπειδὴ</rs> καὶ <rs type="waw">ἀφ οῦ</rs> ⁑</p>
+            </cit>. καὶ <q>ὅτε</q> ὡς νῦν καὶ <q>ἐπειδὴ</q> καὶ <rs type="waw">ἀφ οῦ</rs> ⁑</p>
             </div>
           </div>
           <div n="164r3" type="scholion">
@@ -90,7 +90,7 @@
             </div>
             <div type="comment">
               <p>
-                <q>Ἀγαυοὶ</q> ὄνομα ἔθνους ἵππους δὲ ἀμέλγοντες οὗτοι τὸ γάλα ἐτρέφοντο· <persName n="urn:cite:hmt:pers.pers620">Δημετριος</persName> δὲ <q>άγαυοὺς</q> τοὺς <rs type="waw">ἐυειδεῖς</rs> ⁑</p>
+                <q>Ἀγαυοὶ</q> ὄνομα ἔθνους ἵππους δὲ ἀμέλγοντες οὗτοι τὸ γάλα ἐτρέφοντο· <persName n="urn:cite:hmt:pers.pers620">Δημετριος</persName> δὲ <q>άγαυοὺς</q> τοὺς <q>ἐυειδεῖς</q> ⁑</p>
               </div>
             </div>
             <div n="164r5" type="scholion">
@@ -101,7 +101,7 @@
                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.7</p>
               </div>
               <div type="comment">
-                <p>τὸ <q>πάλιν</q> τὴν ἀπο <rs type="waw">τοῦ ἐυθέως</rs> μεταστροφὴν <cit>
+                <p>τὸ <q>πάλιν</q> τὴν ἀπο τοῦ <q>ἐυθέως</q> μεταστροφὴν <cit>
                   <ref>urn:cts:greekLit:tlg0012.tlg001:3.427</ref>
                   <q>ὅσσε πἀλιν κλίνασα·</q>
                 </cit> οἱ δὲ ἀναμέρος <placeName n="urn:cite:hmt:place.place20">Μυσίαν </placeName> καὶ <placeName n="urn:cite:hmt:place.place70">Θράκην</placeName> ὁρῶν, ἔστι δὲ καῖ τοῦτο σύνηθες, <persName n="urn:cite:hmt:pers.pers17">Ὁμήρω</persName>, <cit>
@@ -136,7 +136,7 @@
           </div>
           <div type="comment">
             <p>τῶν νομάδων <rs type="ethnic" n="urn:cite:hmt:place.place32">Σκυθῶν</rs> ὅθεν και ὁ <persName>Ἀνάχαρσις</persName> ἐστι οὓς δή φησιν ἁπάντων εἶναι δικαιοτάτους ὅτι κοινοῦς ἔχουσι παιδας καὶ γυναικας καὶ τὰ παντα πλὴν ξίφους καὶ ποτηρίου τούτοις δὲ καὶ ἀυτομάτως ἡ γῆ βίον φέρει οὐδέτι ζῶιον ἐσθίουσιν. τούτους <persName n="urn:cite:hmt:pers.pers225">Αἰσχὺλος</persName>
-            <rs type="ethnic">Γαβίους</rs> φησὶ Ἄβιοι δὲ ἐκλήθησαν ἠ περὶ τὸν βιον ἤ τὴν βιαν ἤ ἅμα βιῶν πορευόμενοι, ἤ ὁτι ἀόικοι· ὁι δὲ τὸ <rs type="waw">α</rs> κάτ εκτασιν ἵν’ ηἶ <rs type="waw">πολυβίων</rs> καὶ <rs type="waw">πολυετῶν</rs> ὁτι <persName>Μακρόβιοι</persName>. ἠ τὸν ἡμετερον βίον μὴ ἐγνωκότων επιφέρει γὰρ <cit>
+            <rs type="ethnic">Γαβίους</rs> φησὶ Ἄβιοι δὲ ἐκλήθησαν ἠ περὶ τὸν βιον ἤ τὴν βιαν ἤ ἅμα βιῶν πορευόμενοι, ἤ ὁτι ἀόικοι· ὁι δὲ τὸ <rs type="waw">α</rs> κάτ εκτασιν ἵν’ ηἶ <q>πολυβίων</q> καὶ <q>πολυετῶν</q> ὁτι <persName>Μακρόβιοι</persName>. ἠ τὸν ἡμετερον βίον μὴ ἐγνωκότων επιφέρει γὰρ <cit>
               <ref>urn:cts:greekLit:tlg0012.tlg001:13.6</ref>
               <q>δικαιοτάτων <choice>
                 <abbr>ανων</abbr>
@@ -1921,36 +1921,36 @@
                                                                                 <p></hi>ἄρα ἀξίως καὶ δεόντως δoκοῦμεν σοι αὔχειν τρεῖς ἀνθενὸς πεφονευκότες ⁑</p>
                                                                               </div>
                                                                             </div>
-                                                                            <div n="40" type="scholion">
+                                                                            <div n="46" type="scholion">
                                                                              <div type="lemma">
-                                                                               <p></p>
+                                                                               <p>Κρήτῃ ἐπίουρον:</p>
                                                                              </div>
                                                                              <div type="ref">
-                                                                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.443</p>
+                                                                               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.450</p>
                                                                              </div>
                                                                              <div type="comment">
-                                                                               <p>⁑</p>
+                                                                               <p>τοῦτο τριχῶς ἀνεγνώσθη <persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persNme> γὰρ ὡς <q>ἐπίκουρον</q> ἐκδεχόμενος βασιλέα καὶ φύλακα· καὶ <persName n="urn:cite2:hmt:pers:pers16">Ἀρίσταρχος</persName> δὲ οὕτως ἐκδεχόμενος τὸν φύλακα· μέμνηται δὲ καὶ ὁ <persName n="urn:cite2:hmt:pers:pers175">Δίδυμος</persName> τῆς ἀποδόσεως καὶ <persName n="urn:cite2:hmt:pers:pers501">Τρύφων</persName>. ἐκεῖνο δὲ προστίθησιν ὁ <persName n="urn:cite2:hmt:pers:pers501">Τρύφων</persName> ὅτι ὁ ἐπίουρος ὡς ἐπίσκοπος, οὐ πάντως ἔχει ἐγκείμενον τὸν οῦρον τὸν φύλακα κατὰ ταύτην τὴν ἀπόδοσιν· τί γὰρ κεκώλυκε παρὰ τὸ <q>ὁρῶ</q> εἶναι <q>ἐπίορον</q> καὶ <q>ἐπίουρον</q> τὸν <q>ἐπιορῶντας</q> ἐψιλῶσθαι δὲ δια τὴν ἐπένθεσιν τοῦ <rs type="waw">ῡ</rs> καὶ ἡμεῖς δὲ συγκατατιθέμεθα τούτοις. εἰσὶ δὲ οἳ ἀνεστρεψαν τὴν <choice><abbrev>προθ</abbrev><expan>πρόθεσιν</expan></choice> <q>Κρίτῃ ἔπι</q> <supralinear>ὁ</supralinear> δε <persName n="urn:cite2:hmt:pers:pers485">Ἀσκαλωνίτης</persName> παρέλκειν ἡγεῖται τὴν ἐπί διὸ καὶ τὸν τόνον φυλάσσει τῆς προθέσεως ὁμοίως τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.422</ref><q>βοῶν ἐπιβουκόλος ἀνήρ</q></cit> (γ 422)⁑</p>
                                                                              </div>
                                                                            </div>
                                                                            <div n="40" type="scholion">
                                                                             <div type="lemma">
-                                                                              <p></p>
+                                                                              <p>Δευκαλίων δ' ἐμὲ τίκτε·</p>
                                                                             </div>
                                                                             <div type="ref">
-                                                                              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.443</p>
+                                                                              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.452</p>
                                                                             </div>
                                                                             <div type="comment">
-                                                                              <p>⁑</p>
+                                                                              <p></hi>ὀρθοτονητέον τὴν ἀντωνυμίαν ἔστι γὰρ ἀντιδιαστολή⁑</p>
                                                                             </div>
                                                                           </div><div n="40" type="scholion">
                                                                            <div type="lemma">
-                                                                             <p></p>
+                                                                             <p>ἤ τινά που τρώων ἑταρίσσαιτο μεγαθύμων:</p>
                                                                            </div>
                                                                            <div type="ref">
-                                                                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.443</p>
+                                                                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.457</p>
                                                                            </div>
                                                                            <div type="comment">
-                                                                             <p>⁑</p>
+                                                                             <p>ὅτι ἀντὶ τοῦ <q>συνεργὸν λάβοι</q> πρὸς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:11.7</ref><q>ἴ̈κμενον οὖρον ἵει πλησίστιον, ἐσθλὸν ἑταῖρον</q></cit>⁑</p>
                                                                            </div>
                                                                          </div><div n="40" type="scholion">
                                                                           <div type="lemma">
@@ -2118,7 +2118,7 @@
                                                                                       <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.623</p>
                                                                                     </div>
                                                                                     <div type="comment">
-                                                                                      <p>ἡ μὲν σωνήθεια πάλιν συνάπτει ἕως τοῦ <rs n="waw" >κῦνες</rs>. δύναται δὲ καθεαυτὸ λέγεσθαι μόνον τὸ κὰκαὶ <rs n="waw">κυνες</rs>. καὶ μᾶλλον γε τὸν σχετλιασμον ἐμφαίνει</p>
+                                                                                      <p>ἡ μὲν σωνήθεια πάλιν συνάπτει ἕως τοῦ <q>κῦνες</q>. δύναται δὲ καθεαυτὸ λέγεσθαι μόνον τὸ κὰκαὶ <q>κυνες</q>. καὶ μᾶλλον γε τὸν σχετλιασμον ἐμφαίνει</p>
                                                                                     </div>
                                                                                   </div>
                                                                                   <div n="A14" type="scholion">
@@ -2154,7 +2154,7 @@
                                                                                         <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.627</p>
                                                                                       </div>
                                                                                       <div type="comment">
-                                                                                        <p>διχῶσ αἱ <persName n="urn:cite:hmt:pers.pers16" >Ἀριστάρχου</persName> καὶ δια τοῦ <rs n="waw" >ε</rs>⁑ </p>
+                                                                                        <p>διχῶσ αἱ <persName n="urn:cite:hmt:pers.pers16" >Ἀριστάρχου</persName> καὶ δια τοῦ <rs n="waw">ε</rs>⁑ </p>
                                                                                       </div>
                                                                                     </div>
                                                                                     <div n="A17" type="scholion">
@@ -2312,7 +2312,7 @@
                                                                                           <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.687</p>
                                                                                         </div>
                                                                                         <div type="comment">
-                                                                                          <p>ὅτι τὸ <rs type="waw">σπουδῇ</rs>ἀντι τοῦ <rs type="waw">μόγις</rs> καὶ δυσεργῶς ἀπο τῶν νεῶν αὐτὸν ἀπείργων⁑ </p>
+                                                                                          <p>ὅτι τὸ <q>σπουδῇ</q>ἀντι τοῦ <q>μόγις</q> καὶ δυσεργῶς ἀπο τῶν νεῶν αὐτὸν ἀπείργων⁑ </p>
                                                                                         </div>
                                                                                       </div>
                                                                                       <div n="A30" type="scholion">
@@ -2390,7 +2390,7 @@
                                                                                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.727</p>
                                                                                           </div>
                                                                                           <div type="comment">
-                                                                                            <p>τὸ <rs type="waw">περι</rs> ἀντι τοῦ <rs type="waw" >περισσῶς</rs> τὸ δε <rs type="waw">δῶκε</rs> προπερισπαστὲον</p>
+                                                                                            <p>τὸ <rs type="waw">περι</rs> ἀντι τοῦ <q>περισσῶς</q> τὸ δε <q>δῶκε</q> προπερισπαστὲον</p>
                                                                                           </div>
                                                                                         </div>
                                                                                         <div n="A36" type="scholion">
@@ -2401,7 +2401,7 @@
                                                                                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.734</p>
                                                                                           </div>
                                                                                           <div type="comment">
-                                                                                            <p>περισπαστέον τὸ <rs type="waw">πολεῖς</rs> ὡς <rs type="waw">ταχεῖς</rs> ὁμοίως τὸ <q>πολεῖς ὄλεσαντ' αἰζηούς</q>· τοῦτο δέ φημι ἐπεὶ τινὲς βούλονται ἕνεκα ἐμφάσεως μείζονος βαρυτόνως ἀναγινώσκειν οἷς μάχεται καὶ ἡ ὀρθογραφία ἠ κατ' <rs type="ethnic" n="urn:cite:hmt:place.place79" >ΐονας</rs>. ἡ διπλῆ δὲ ὅτι κατὰ συναλοιφὴν ἐκληπτέον ἵνα διαιρεῆται μάλιστα δὲ καὶ αὐτὸς⁑</p>
+                                                                                            <p>περισπαστέον τὸ <q>πολεῖς</q> ὡς <q>ταχεῖς</q> ὁμοίως τὸ <q>πολεῖς ὄλεσαντ' αἰζηούς</q>· τοῦτο δέ φημι ἐπεὶ τινὲς βούλονται ἕνεκα ἐμφάσεως μείζονος βαρυτόνως ἀναγινώσκειν οἷς μάχεται καὶ ἡ ὀρθογραφία ἠ κατ' <rs type="ethnic" n="urn:cite:hmt:place.place79" >ΐονας</rs>. ἡ διπλῆ δὲ ὅτι κατὰ συναλοιφὴν ἐκληπτέον ἵνα διαιρεῆται μάλιστα δὲ καὶ αὐτὸς⁑</p>
                                                                                           </div>
                                                                                         </div>
                                                                                         <div n="A37" type="scholion">
@@ -2529,7 +2529,7 @@
                                                                                                 </div>
                                                                                                 <div type="comment">
                                                                                                   <p>
-                                                                                                    <persName n="urn:cite:hmt:pers.pers1078" >Ὀρθαῖον</persName> ὡς <persName n="urn:cite:hmt:pers.pers623">Ἀλκαῖον</persName> ἐπεὶ φησὶ, τὰ διὰ τοῦ <rs type="waw">αῖος</rs> τρισύλλαβα ἔξοντα τὴν πρώτην πρώτην συλλαβὴν εἰς σύμφωνον καταλήγουσαν προπερισπᾶσθαι θέλει· χερσαῖος ὀρφναῖος ἐρσαῖος ἀρχαῖος <persName n="urn:cite:hmt:pers.persxxxx-Jenn submitted a new persName request" >Ἀρναῖος</persName>
+                                                                                                    <persName n="urn:cite:hmt:pers.pers1078" >Ὀρθαῖον</persName> ὡς <persName n="urn:cite:hmt:pers.pers623">Ἀλκαῖον</persName> ἐπεὶ φησὶ, τὰ διὰ τοῦ <q>αῖος</q> τρισύλλαβα ἔξοντα τὴν πρώτην πρώτην συλλαβὴν εἰς σύμφωνον καταλήγουσαν προπερισπᾶσθαι θέλει· χερσαῖος ὀρφναῖος ἐρσαῖος ἀρχαῖος <persName n="urn:cite:hmt:pers.persxxxx-Jenn submitted a new persName request" >Ἀρναῖος</persName>
                                                                                                     <rs type="ethnic" n="urn:cite:hmt:place.place387"> τρικκαῖος·</rs>
                                                                                                     <persName n="urn:cite:hmt:pers.persxxx" >Ἑρμαῖος</persName>ὅθεν τὸ Ἑρμαῖον κάρα παρα <persName n="urn:cite:hmt:pers.pers178" >Σοφοκλῖ</persName>· τὸ δὲ ὅθι δ’ Ἑρμαῖος λόφος ἐστιν. ὡς εἰσ ιδιότητα. καὶ τὸ ἐπι τοῦ κυρίου προς αντιδιαστολήν. διάφορον τόνον ἀνεδέξατο ὡς <rs type="ethnic" n="urn:cite:hmt:place.place1" >Ἀθήναιος</rs> καὶ<rs type="ethnic" n="urn:cite:hmt:place.place1"> Ἀθηναῖος</rs> ἀγοραῖος καὶ ἀγόραιος, οὕτως οὖν καὶ <persName n="urn:cite:hmt:pers.pers1078">Ὀρθαῖος</persName> προπερισπωμένως ἀναγνῶστέον. οὐδεμία γὰρ ἀντιδιαστολή· ἐπι τοῦ ὀνόματος κεχώρηκεν ⁑·</p>
                                                                                                   </div>
