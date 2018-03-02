@@ -221,13 +221,79 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.473@οἰπόλῳ</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.473@οἰοπόλῳ</p>
                         </div>
                         <div type="comment">
                             <p>ἐρήμω</p>
                         </div>
                     </div>
-                    <!-- end of HC editing, PICK UP HERE -->
+                    <div n="8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.475@ἀλεξασθαι</p>
+                        </div>
+                        <div type="comment">
+                            <p>αλωξαι⁑</p>
+                        </div>
+                    </div>
+                    <div n="9" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.481@καί μ' οἱ</p>
+                        </div>
+                        <div type="comment">
+                            <p>καί μοι</p>
+                        </div>
+                    </div>
+                    <div n="10" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.508@ἀγοστῷ</p>
+                        </div>
+                        <div type="comment">
+                            <p>αγκωῶνα</p>
+                        </div>
+                    </div>
+                    <div n="11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.514@ἀμύνετο</p>
+                        </div>
+                        <div type="comment">
+                              <p>αντὶ <choice><abbr>ἡμυνετ</abbr><expan>ἡμυνετο</expan></choice></p>
+                        </div>
+                    </div>
+                    <div n="12" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.521@βριήπυος</p>
+                        </div>
+                        <div type="comment">
+                            <p>μεγαλοφώνως⁑</p>
+                        </div>
+                    </div>
+                  <div n="13" type="scholion">
+                      <div type="lemma">
+                          <p/>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.527@πήληκα</p>
+                      </div>
+                      <div type="comment">
+                          <p>περι κεφαλαιαν</p>
+                      </div>
+                  </div>
+                  <!-- end of HC editing, PICK UP HERE -->
 
                     <!-- start of Gustavus editing -->
 
