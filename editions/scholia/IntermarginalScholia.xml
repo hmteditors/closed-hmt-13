@@ -654,13 +654,24 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.444</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.439</p>
                         </div>
                         <div type="comment">
-                            <p>ἀντι τοῦ ώρμα ὁ σίδηρος πρόσω χωρῆσαι :</p>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> σαφῶς τὸν θώρακα χιτῶνα χαλκὸν:</p>
                         </div>
                     </div>
                     <div n="22" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.444</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντι τοῦ ώρμα ὁ σίδηρος πρόσω χωρῆσαι:</p>
+                        </div>
+                    </div>
+                    <div n="23" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -671,7 +682,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>ἀρίσταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> δή τι εΐσκομεν χωρὶς τοῦ <rs type="waw">ς</rs> ⁑</p>
                         </div>
                     </div>
-                    <div n="23" type="scholion">
+                    <div n="24" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -682,7 +693,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>γράφεται καὶ <q>ἐναντίος</q></p>
                         </div>
                     </div>
-                    <div n="24" type="scholion">
+                    <div n="25" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -693,7 +704,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>αριστ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> <choice><abbr>χω</abbr><expan>χωρὶς</expan></choice> τοῦ <rs type="waw">ς</rs> ἴδη ⁑</p>
                         </div>
                     </div>
-                    <div n="25" type="scholion">
+                    <div n="26" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -704,7 +715,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>ἀρίσταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName>, <q>ἤ τινα</q> αλλοι δὲ <q>εἴ τινα</q> ⁑</p>
                         </div>
                     </div>
-                    <div n="26" type="scholion">
+                    <div n="27" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -715,7 +726,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>ἀριστ</abbr><expan>Ἀρίσταρχος</expan></choice></persName>· <q>τῷ δ' ἐπὶ θυμῶι</q></p>
                         </div>
                     </div>
-                    <div n="27" type="scholion">
+                    <div n="28" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -726,7 +737,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><choice><abbr>οτ</abbr><expan>ὁτὶ</expan></choice> <choice><abbr>αντ</abbr><expan>αντὶ</expan></choice> τοῦ ἐπαμύνωμεν :</p>
                         </div>
                     </div>
-                    
+
                     <!-- start of Gustavus editing -->
 
                     <div n="A1" type="scholion">
