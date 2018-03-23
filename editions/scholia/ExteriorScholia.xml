@@ -238,17 +238,62 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                           <p><del>ἦλθ' <choice><abbr>ἐπαμύντ</abbr><expan>ἐπαμύντωρ</expan></choice></del></p>
                       </div>
                   </div>
-                  <div n="!!!" type="scholion">
+                  <div n="5" type="scholion">
                       <div type="lemma">
                           <p/>
                       </div>
                       <div type="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.!!!</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.435</p>
                       </div>
                       <div type="comment">
-                          <p></p>
+                          <p><persName n="urn:cite2:pers.2017a:pers47"><choice><abbr>Ποσειδά</abbr><expan>Ποσειδάων</expan></choice></persName></p>
                       </div>
                   </div>
+                  <div n="6" type="scholion">
+                      <div type="lemma">
+                          <p/>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.477</p>
+                      </div>
+                      <div type="comment">
+                          <p>βοῇ θοόν·</p>
+                      </div>
+                  </div>
+                  <div n="7" type="scholion">
+                      <div type="lemma">
+                          <p/>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.485</p>
+                      </div>
+                      <div type="comment">
+                          <p>θυμῶν</p>
+                      </div>
+                  </div>
+                  <div n="8" type="scholion">
+                      <div type="lemma">
+                          <p/>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.541</p>
+                      </div>
+                      <div type="comment">
+                          <p><persName n="urn:cite2:pers.2017a:pers142">Αἰνειας</persName></p>
+                      </div>
+                  </div>
+                  <div n="9" type="scholion">
+                      <div type="lemma">
+                          <p/>
+                      </div>
+                      <div type="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.551</p>
+                      </div>
+                      <div type="comment">
+                          <p><persName n="urn:cite2:pers.2017a:pers47"><choice><abbr>Ποσειδά</abbr><expan>Ποσειδάων</expan></choice></persName></p>
+                      </div>
+                  </div>
+
 
                     <!-- end of HC editing, PICKUP HERE -->
 
@@ -260,7 +305,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.563</p>
                         </div>
                         <div type="comment">
-                            <p><w>ποσειδ<gap unit="letters" extent="3"></gap></w></p>
+                            <p><persName n="urn:cite2:pers.2017a:pers47"><choice><abbr>Ποσειδά</abbr><expan>Ποσειδάων</expan></choice></persName></p>
                         </div>
                     </div>
                     <div n="A2" type="scholion">
