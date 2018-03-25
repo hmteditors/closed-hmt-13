@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
-<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -38,6 +30,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>γράφεται καὶ <q>ἀρήξειν</q> ⁑</p>
             </div>
           </div>
+
+
           <div n="164r2" type="scholion">
             <div type="lemma">
               <p></p>
@@ -71,6 +65,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>εν αλλῳ ὑπαυτῶ</p>
             </div>
           </div>
+
           <div n="164v2" type="scholion">
             <div type="lemma">
               <p></p>
@@ -214,6 +209,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ἑναλλγεν αὶψ ἕπεσεν⁑</p>
             </div>
           </div>
+
             <div n="167v2" type="scholion">
             <div type="lemma">
               <p></p>
@@ -335,6 +331,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p><persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> καὶ <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφανής</persName> <q>ἐνιστήθεσσι</q> ⁑</p>
             </div>
           </div>
+
           <div n="168v3" type="scholion">
             <div type="lemma">
               <p></p>
@@ -704,6 +701,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>αριστ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> <choice><abbr>χω</abbr><expan>χωρὶς</expan></choice> τοῦ <rs type="waw">ς</rs> ἴδη ⁑</p>
                         </div>
                     </div>
+
                     <div n="26" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -769,6 +767,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div type="comment">
                             <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> δια τοῦ <rs type="waw">ν</rs> ἔξοχον ἅπασαι ⁑</p>
                         </div>
+                        </div>
+
                         <div n="32" type="scholion">
                             <div type="lemma">
                                 <p/>
@@ -779,6 +779,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <div type="comment">
                                 <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Άρίσταρχος</expan></choice></persName> <choice><abbr>χως</abbr><expan>χωρὶς</expan></choice> τοῦ <rs type="waw">ϊ</rs> ένιοι δὲ <persName n="urn:cite2:hmt:pers:pers142">Αἰνείας</persName> δ‘ <persName n="urn:cite2:hmt:pers:pers1152">Ἀφαρεῖα</persName> ⁑</p>
                             </div>
+                            </div>
+
                             <div n="33" type="scholion">
                                 <div type="lemma">
                                     <p/>
@@ -789,6 +791,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <div type="comment">
                                     <p><persName n="urn:cite2:hmt:pers:pers15"><choice><abbr>Ζηνοδ</abbr><expan>Ζηνόδοτος</expan></choice></persName> δια δε φλέβα ⁑</p>
                                 </div>
+                                </div>
                                 <div n="34" type="scholion">
                                     <div type="lemma">
                                         <p/>
@@ -798,6 +801,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </div>
                                     <div type="comment">
                                         <p><persName n="urn:cite2:hmt:pers:pers15"><choice><abbr>Ζηνοτ</abbr><expan>Ζηνόδοτος</expan></choice></persName> καὶ <persName n="urn:cite2:hmt:pers:pers21"><choice><abbr>Αριστοφα</abbr><expan>Αριστοφάνης</expan></choice></persName> δια τοῦ <rs type="waw">α</rs> παρασταδόν ⁑</p>
+                                    </div>
                                     </div>
                                     <div n="35" type="scholion">
                                         <div type="lemma">
@@ -810,7 +814,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                             <p>ὅτι πτῶσις ἤλλακται δοτικος αντι γενικης οὐδε αὐτοῦ τὸ έγχος ⁑</p>
                                         </div>
 
-
+</div>
                     <!-- start of Gustavus editing -->
 
                     <div n="A1" type="scholion">
@@ -1117,18 +1121,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
                     <!-- end of Gustavus editing, end of book -->
 
-                    <!--
-                    <div n="" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
-                        </div>
-                        <div type="comment">
-                            <p> ⁑</p>
-                        </div>
-                    </div> -->
                 </body>
             </text>
         </group>
